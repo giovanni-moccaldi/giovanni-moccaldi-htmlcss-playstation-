@@ -1,0 +1,44 @@
+.jumbotron {
+    background-color: tomato;
+    height: 80vh;
+    width: 100%;
+
+}
+
+img {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+}
+
+.middle {
+    background-color: blue;
+    height: 80vh;
+    width: 100%;
+}
+
+.plus {
+    background-color: bisque;
+    height: 300px;
+}
+
+.psplus {
+    height: 50px;
+
+}
+
+.now {
+    background-color: rgb(14, 25, 235);
+    height: 300px;
+    width: 100%;
+}
+
+.final {
+    background-color: rgb(14, 25, 235);
+    height: 900px;
+    width: 100%;
+}
+
+.sony {
+    height: 30px;
+}
