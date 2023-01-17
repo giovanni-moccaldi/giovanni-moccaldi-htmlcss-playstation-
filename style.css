@@ -3,9 +3,10 @@
     height: 80vh;
     background-size: cover;
     background-position: center;
+}
 
-
-
+ul {
+    list-style: none;
 }
 
 .sonycontainer {
@@ -184,4 +185,10 @@ p {
     background-color: blue;
     color: white;
     border: none;
+}
+
+footer p,
+li {
+    color: white;
+
 }
