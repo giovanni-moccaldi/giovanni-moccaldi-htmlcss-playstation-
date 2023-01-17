@@ -59,3 +59,8 @@ img {
 .soulstorm {
     height: 100%;
 }
+
+section p,
+h1 {
+    color: white;
+}
