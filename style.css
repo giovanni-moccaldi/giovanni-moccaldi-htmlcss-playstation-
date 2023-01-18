@@ -52,22 +52,19 @@ h3 {
 
 
 img {
-
-
     height: 170px;
     object-fit: cover;
 
 }
 
 .takes {
-
-    height: 280px;
+    min-width: 100px;
 }
 
 .middle {
-    background-color: blue;
+
     height: 80vh;
-    width: 100%;
+
 }
 
 #navlogo {
@@ -75,38 +72,26 @@ img {
 }
 
 .plus {
-    height: 400px;
     background-color: #bfbcbb;
-    width: 100%;
+
 }
 
 .now {
     background-color: rgb(9, 18, 198);
-    height: 300px;
+}
+
+. .icons {
     width: 100%;
 }
 
-.psplus {
 
-    height: 50px;
-}
-
-
-
-.icons {
-    width: 100%;
-
-}
-
-/*  
 .soulstorm {
-    width: 100%;
-    height: 100%;
+
     background-size: cover;
     background-position: center;
 
 }
-*/
+
 .ps {
     height: 100%;
 }
@@ -154,10 +139,9 @@ p {
     width: 30px;
 }
 
-#ciao {
-    border-radius: 20%;
-    width: 200px;
-    padding: 20px
+.ciao {
+    border-radius: 10px;
+
 }
 
 
