@@ -28,6 +28,14 @@ ul {
     margin-top: -15px;
 }
 
+.icons {
+    opacity: 0.5;
+}
+
+:hover.icons {
+    opacity: 1;
+}
+
 .pad {
     padding-top: 300px;
 }
@@ -172,6 +180,9 @@ p {
 
 }
 
+.psplus {
+    height: 40px;
+}
 
 /* footer */
 .sony {
@@ -190,7 +201,18 @@ p {
     width: 9rem;
     border-radius: 15px;
     height: 40px;
+
+
 }
+
+#start:hover {
+    border: 5px solid black;
+}
+
+.infobtn:hover {
+    border: 2px solid black;
+}
+
 
 .infobtn {
     width: 150px;
@@ -198,6 +220,7 @@ p {
     background-color: blue;
     color: white;
     border: none;
+
 }
 
 footer p,
