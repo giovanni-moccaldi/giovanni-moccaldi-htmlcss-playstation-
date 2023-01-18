@@ -94,7 +94,7 @@ img {
 
 
 .icons {
-    width: 100px;
+    width: 100%;
 
 }
 
@@ -159,6 +159,7 @@ p {
     width: 200px;
     padding: 20px
 }
+
 
 /* footer */
 .sony {
