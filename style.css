@@ -22,6 +22,16 @@ ul {
 
 }
 
+:hover.ciao {
+
+    transition: 2s;
+    margin-top: -15px;
+}
+
+.pad {
+    padding-top: 300px;
+}
+
 .navps1 {
     display: flex;
     align-items: flex-end;
